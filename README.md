@@ -35,7 +35,7 @@ Split and Merge RGB Image
 ### Step10:
 Split and merge HSV Image
 
-### Program:
+## Program:
 #### Developed By: SUDHIR KUMAR. R
 #### Register Number: 212223230221
 
